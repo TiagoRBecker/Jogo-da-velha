@@ -1,1 +1,1 @@
-jogo criador com javascript, html5 e css3
+jogo criado com javascript,HTML5 e css3
